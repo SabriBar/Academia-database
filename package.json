@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/SabriBar/Academia-database/issues"
   },
-  "homepage": "https://github.com/SabriBar/Academia-database#readme"
+  "homepage": "https://github.com/SabriBar/Academia-database#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
 }
